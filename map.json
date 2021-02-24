@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"http:\/\/soundimage.org\/wp-content\/uploads\/2017\/05\/Hypnotic-Puzzle.mp3"
                 }],
