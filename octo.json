@@ -1,0 +1,15 @@
+{ "columns":4,
+ "image":"octo-logo.png",
+ "imageheight":49,
+ "imagewidth":128,
+ "margin":0,
+ "name":"octo",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"2021.01.13",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":1.4
+}
