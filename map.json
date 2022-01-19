@@ -206,7 +206,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.addictinggames.com\/embed\/html5-games\/18410"
+                 "value":"https:\/\/cdn.htmlgames.com\/embed.js?game=ColorCircle&amp;bgcolor=white"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
